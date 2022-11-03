@@ -1,2 +1,2 @@
 # scraPy
-Various custom-made web API scrapping tools made for thesis/other purposes
+Various custom-made web API scraping tools made for thesis/other purposes
